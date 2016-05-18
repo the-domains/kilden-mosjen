@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Kilden Mosjøen]]></title>
+        <description><![CDATA[Kilden Mosjøen]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 18 May 2016 15:58:26 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The link you followed may have expired, or the page may only be visible to an audience you're not in.</p>]]></description>
+            <link>https://www.facebook.com/kildenmosjoen/</link>
+            <guid isPermaLink="false">a699b766-22c1-4e5d-9757-c85dc0a58d6b</guid>
+            <pubDate>Wed, 18 May 2016 15:58:26 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
