@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Kilden Mosjøen]]></title>
         <description><![CDATA[Kilden Mosjøen]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kilden-mosjen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 May 2016 15:58:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 18 May 2016 16:05:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kilden-mosjen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/54cf141a-54cd-4dbf-9027-6c66b56db76a.jpg">]]></description>
+            <link>https://thegrid.ai/kilden-mosjen/a9aa3695-296f-4192-9f00-538be2b78b01/index.html</link>
+            <guid isPermaLink="false">a9aa3695-296f-4192-9f00-538be2b78b01</guid>
+            <pubDate>Wed, 18 May 2016 16:04:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>The link you followed may have expired, or the page may only be visible to an audience you're not in.</p>]]></description>
