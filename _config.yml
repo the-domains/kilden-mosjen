@@ -1,14 +1,14 @@
-layout_spectrum: 0.8237634904216975
-typography_spectrum: 0.44613994867540896
+layout_spectrum: 0.24256181623786688
+typography_spectrum: 0.24494849611073732
 color:
-  brandStrength: 0.06726167444139719
-  lightness: 0.8339354482013732
-  saturation: 0.6563135979231447
-  rhythmicContrast: 0.5173876991029829
+  brandStrength: 0.22823695302940905
+  lightness: 0.9769130784552544
+  saturation: 0.5372014117892832
+  rhythmicContrast: 0.0014849656727164984
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#B9121B'
+    - '#4C1B1B'
+    - '#F6E497'
+    - '#FCFAE1'
+    - '#BD8D46'
 name: Kilden Mosjøen
