@@ -1,4 +1,3 @@
-layout_spectrum: 0.24256181623786688
 typography_spectrum: 0.24494849611073732
 color:
   brandStrength: 0.22823695302940905
@@ -11,4 +10,11 @@ color:
     - '#F6E497'
     - '#FCFAE1'
     - '#BD8D46'
+opengraph:
+  appId: www.facebook.com/kildenmosjoen
+layout_spectrum: 0.24256181623786688
+author:
+  name: Frank Ivan Bjørkmo
+  email: post@kildenmosjoen.no
+  url: www.kildenmosjoen.no
 name: Kilden Mosjøen
